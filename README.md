@@ -50,6 +50,6 @@ Adapted from http://www.thingiverse.com/thing:291926
 
     ![switch](assets/switch.jpg)
 
-* 3D print filament(64g * $9.78/kg): $0.63
+* 3D print PLA filament(64g * $9.78/kg): $0.63
 
-    ![3d printer, Prusa i3](assets/i3.jpg)
+    ![pla](assets/pla.jpg)
