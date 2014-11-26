@@ -22,6 +22,10 @@ Adapted from http://www.thingiverse.com/thing:291926
 
 * https://github.com/adafruit/Adafruit-GFX-Library
 
+## Tools
+
+* [LCD-Converter](http://switer.github.io/LCD-Converter/): convert image into oled pixelated binary data.
+
 ## Costs
 
 > total: $10.52
@@ -53,3 +57,6 @@ Adapted from http://www.thingiverse.com/thing:291926
 * 3D print PLA filament(64g * $9.78/kg): $0.63
 
     ![pla](assets/pla.jpg?v=2)
+    
+    
+    
